@@ -1,2 +1,2 @@
 Daria Mudrova 519
-Rubel Oleksii
+ls ~/.ssh/Rubel Oleksii
